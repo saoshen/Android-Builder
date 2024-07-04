@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "10x",
-      "repo": "https://github.com/saoshen/Xiaomi_Kernel_OpenSource/tree/cezanne-r-oss",
+      "repo": "https://github.com/saoshen/Xiaomi_Kernel_OpenSource",
       "branch": "cezanne-r-oss",
       "device": "atom",
       "defconfig": "atom_user_defconfig"
